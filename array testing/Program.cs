@@ -17,13 +17,16 @@ namespace array_testing
             int gridHeight = 6;
             int gridWidth = 6;
             int radiusCirc = (int)47.5;
-            int[,] grid = new int[gridWidth, gridHeight];
-            bool[,] trueGrid = new bool[gridWidth, gridHeight];
             int red = 1;
             int yellow = 2;
             bool leftClick;
             int playerTurn = 1;
             bool click = true;
+            int lowest = gridHeight - 1;
+            int[,] grid = new int[gridWidth, gridHeight];
+            grid[0, 5] = yellow;
+            bool[,] trueGrid = new bool[gridWidth, gridHeight];
+            trueGrid[0, 5] = true;
 
             Raylib.InitWindow(windowWidth, windowHeight, "Poggershd");
 
@@ -58,11 +61,22 @@ namespace array_testing
                             x--;
                             if (!trueGrid[x, y])
                             {
+                                y = gridWidth - 1;
+                                for (int i = 0; i < gridWidth; i++)
+                                {
+                                    if (trueGrid[x, y])
+                                    {
+                                        y--;
+                                    }
+                                }
                                 if (playerTurn == 1)
                                 {
+
                                     Raylib.DrawCircle((x + 1) * recWidth + radiusCirc + (int)2.5, y * recHeight + radiusCirc - (int)1.5, radiusCirc, Color.RED);
                                     if (leftClick)
                                     {
+
+
                                         grid[x, y] = 1;
                                         trueGrid[x, y] = true;
                                     }
@@ -72,6 +86,7 @@ namespace array_testing
                                     Raylib.DrawCircle((x + 1) * recWidth + radiusCirc + (int)2.5, y * recHeight + radiusCirc - (int)1.5, radiusCirc, Color.YELLOW);
                                     if (leftClick)
                                     {
+
                                         grid[x, y] = 2;
                                         trueGrid[x, y] = true;
                                     }
