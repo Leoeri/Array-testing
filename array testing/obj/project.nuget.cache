@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uNXGUwCF1lpcFYb73O5teiDS1s3txJqgACc752SrJn6dO5B8aHq24dXBjPpOPa15K2dxrL8agDhJ5quuvdcS9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leoer\\Desktop\\PrrPrr\\Array testing\\array testing\\array testing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leoer\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\leoer\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

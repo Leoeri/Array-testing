@@ -1,0 +1,20 @@
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\array testing.exe
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\array testing.deps.json
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\array testing.runtimeconfig.json
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\array testing.runtimeconfig.dev.json
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\array testing.dll
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\array testing.pdb
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\obj\Debug\netcoreapp3.1\array testing.csprojAssemblyReference.cache
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\obj\Debug\netcoreapp3.1\array testing.AssemblyInfoInputs.cache
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\obj\Debug\netcoreapp3.1\array testing.AssemblyInfo.cs
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\obj\Debug\netcoreapp3.1\array testing.csproj.CoreCompileInputs.cache
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\obj\Debug\netcoreapp3.1\array testing.dll
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\obj\Debug\netcoreapp3.1\array testing.pdb
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\obj\Debug\netcoreapp3.1\array testing.genruntimeconfig.cache
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\Raylib-cs.dll
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libraylib.so
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libraylib.so
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
+C:\Users\leoer\Desktop\PrrPrr\Array testing\array testing\obj\Debug\netcoreapp3.1\array testing.csproj.CopyComplete
